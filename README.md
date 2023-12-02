@@ -1,4 +1,4 @@
-## Handwritten Digit Recognition Project Using OpenCV & DNN in C++
+## Handwritten Digit Recognition Project Using OpenCV with DNN in C++
 This project aims at utilizing **OpenCV** to perform handwritten digit recognition with the **MNIST** dataset.
 
 MNIST Source: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
